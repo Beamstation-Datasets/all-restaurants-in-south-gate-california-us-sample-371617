@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for South Gate, California. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in South Gate, California, US",
+  "export_job_id": "01a9b376-ba3c-4205-82e5-50bf7d5cd9cc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 371617,
+  "location_name": "South Gate",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-south-gate-california-us-sample-371617",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/371617/beamstation_371617_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.71,
+  "sample_records": 20,
+  "sample_sha256": "48abea7c0747e1f25c124680e36d68c9df1125b2ca15e39072603983db545aef",
+  "sample_size_bytes": 80395,
+  "total_records": 206,
+  "updated_at": "2026-04-09T10:07:38.306253+00:00"
+}
