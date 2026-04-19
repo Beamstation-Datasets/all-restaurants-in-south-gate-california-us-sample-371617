@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 206 records |
 | Free sample size | 20 records (9.71%) |
-| Last export | 2026-04-09T10:07:38.306253+00:00 |
+| Last export | 2026-04-16T10:01:42.267972+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-south-gate-california-us-sample-371617/releases/download/sample-latest/beamstation_371617_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
