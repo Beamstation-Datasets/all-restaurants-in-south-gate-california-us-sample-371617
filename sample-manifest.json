@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1d7fc004-fa14-4f74-9dc8-1d2a580a1cb6",
+  "export_job_id": "b8d56695-aa97-4c66-82d1-a1cb8ee0a94b",
   "id_short": 371617,
-  "published_at": "2026-04-19T07:59:48Z",
+  "published_at": "2026-04-23T19:09:09Z",
   "repo_name": "all-restaurants-in-south-gate-california-us-sample-371617",
   "sample_asset_name": "beamstation_371617_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/371617/beamstation_371617_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "93541fd3757dec055145b0ac27955438d934981bc0ffce5bd3acfcf905f522b4",
-  "sample_size_bytes": 79291,
-  "total_records": 206
+  "sample_records": 21,
+  "sample_sha256": "02973f99fe3950968da814b1e57cfaf12f240e005072ccb655e7ef9e9c932fe8",
+  "sample_size_bytes": 83506,
+  "total_records": 211
 }
